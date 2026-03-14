@@ -1,5 +1,5 @@
 // LINE ID — 請替換
-const LINE_URL = 'https://line.me/ti/p/@yourid';
+const LINE_URL = 'https://line.me/ti/p/@783rgzfd';
 
 // Hero Carousel
 function initCarousel(){
